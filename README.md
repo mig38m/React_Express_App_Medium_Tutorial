@@ -1,4 +1,6 @@
-Build / up
+docker-compose build
+
+docker-compose up
 
 # React_Express_App_Medium_Tutorial
 - This repository has the code to support a tutorial that I created on Medium called Create a React FrontEnd, a Node/Express BackEnd and connect them together.
